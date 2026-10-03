@@ -1,0 +1,10 @@
+{
+  "name": "Sonic Riders: Zero Gravity Main Menu Music",
+  "description": "Main menu music from Sonic Riders: Zero Gravity for Audio Loader. Appears in the game's main menu. All copyrighted material belongs to its respective original owners.",
+  "author": "DragonslayerBerserker",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
